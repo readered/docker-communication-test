@@ -1,1 +1,1 @@
-sudo docker rmi mainentry secondentry
+sudo docker rmi mainentry pythonentry rentry
